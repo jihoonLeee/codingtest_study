@@ -16,8 +16,10 @@ package algorithm.liam_Algorithm.programmers;
 // 제한 사항
 // n은 2 이상 100,000 이하인 자연수입니다.
 public class Fibonacci{
-    
-    public int solution(int n) {
+    public static void main(String[] args) {
+        System.out.println(solution(100000));
+    }
+    public static int solution(int n) {
         return fibo(n);
     }
 
