@@ -1,4 +1,4 @@
-package algorithm.liam_Algorithm.programmers;
+
 //크리마랩 코딩테스트
 public class creama05 {
     
