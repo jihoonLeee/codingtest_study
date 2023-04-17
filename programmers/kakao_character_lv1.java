@@ -2,7 +2,6 @@
  * kakao_character_lv1
  */
 public class kakao_character_lv1 {
-
     class Solution {
         public String solution(String[] survey, int[] choices) {
             String answer = "";
