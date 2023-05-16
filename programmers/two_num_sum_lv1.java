@@ -1,6 +1,7 @@
 public class two_num_sum_lv1 {
     
 }
+//https://school.programmers.co.kr/learn/courses/30/lessons/68644
 
 import java.util.*;
 class Solution {
