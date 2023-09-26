@@ -1,4 +1,4 @@
-public class H-Index_lv2 {
+public class H_Index {
     
 }
 

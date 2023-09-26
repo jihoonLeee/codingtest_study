@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class quickSort_lv2 {
+public class quickSort {
     public String solution(int[] numbers) {
         String answer = "";
 
